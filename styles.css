@@ -1,0 +1,95 @@
+body, main{
+    width: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 81, 255);
+    margin:  0 auto;
+    padding-bottom:50px;
+    align-content: center;
+    
+}
+#head{
+    background-image:url("schrutefarms.jpg");
+    background-size:cover;
+    height: 300px;
+    width: px;
+}
+#profile{
+    height: 150px;
+    width: 150px;
+    border: solid black 1px;
+    margin-left: 25px;
+    position: relative;
+    
+    background-image: url("Dwight_Schrute.jpg");
+    background-size: cover;
+}
+.Name{
+    color: white;
+    position: relative;
+    left: 180px;
+    top: 220px;
+    
+}
+.website{
+    color:white;
+    position: relative;
+    left: 10px;
+    top: 290px;
+}
+li{
+    background-color: white;
+    margin:2px;
+    padding: 5px;
+    border: solid slategray 2px;
+    color: black;
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    left: 550px;
+    top: 220px;
+}
+#bar{
+    border:  solid grey 1px;
+    width: 848px;
+    text-align-last: center;
+    text-decoration-color: rgb(32, 86, 187)
+}
+#header{
+    
+    margin-bottom: 20px;
+}
+.column{
+    width: 318px;
+    border:1px solid white;
+    padding: 5px;
+    position: relative;
+    align-content: center;
+    float:left;
+   
+}
+
+
+.sprofile
+{ 
+    width:50px;
+    height:50px;
+    border: solid black 1px;
+    background-image: url("Dwight_Schrute.jpg");
+    background-size: cover;
+    float: left;
+
+}
+#user
+{
+    height: 125px;
+    border-bottom: solid black 1px;
+}
+.add{
+    border-bottom: 1px solid white
+}
+.post{
+    border-top:1px solid white;
+}
+#wrapper{
+    align-items: center;
+}
